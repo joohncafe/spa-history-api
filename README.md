@@ -1,4 +1,4 @@
-# Criando uma SPA Usando History API HistSPA
+# Criando uma SPA Usando History API - HistSPA
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/routerhist/blob/master/LICENSE.md)
 
